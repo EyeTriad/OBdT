@@ -9,6 +9,6 @@
 - Concept Developed Date: **May 12th 2022**
 - Public Release Date: **September 4th 2024**
 - Current Version: **0.13**
-- OS Used: **Windows10**
+- OS Used: **Windows 10**
 - Programming Language: **C**
 - Language: **PT-BR**
