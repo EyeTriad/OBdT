@@ -5,7 +5,7 @@
 <br>
 
 > _Esse projeto foi desenvolvido para prevenir a informação (String) de ser lida e compreendida diretamente por máquinas normalmente, desenvolvido apeans para ser uma prova de conceito.
-> A informação poderá ser facilmente convertida de volta para que a máquina possa compreender ao substituir os caracteres Unicode de volta para os que são semelhantes ao alfabeto latim ou utilizando recursos de verificação por imagens para ler o texto. 
+> A informação poderá ser facilmente convertida de volta para que a máquina possa compreender ao substituir os caracteres Unicode de volta para os que são semelhantes ao alfabeto latim ou utilizando recursos de verificação por imagens para ler o texto._
 
 
 # 📄 Project Data
