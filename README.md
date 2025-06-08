@@ -10,6 +10,7 @@
 
 
 - Source-Code (Código Fonte): **main.c**
+- License (Licença): **LICENSE.txt**
 <br>
 
 
