@@ -1,5 +1,5 @@
 /*
-	Copyright (c) 2025 III
+	Copyright (c) 2025 EyeTriad
 	Licensed under Creative Commons BY-NC-SA 4.0
 	See LICENSE.txt or https://creativecommons.org/licenses/by-nc-sa/4.0/ for more details
 */
