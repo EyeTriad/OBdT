@@ -1,3 +1,9 @@
+/*
+	Copyright (c) 2025 III
+	Licensed under Creative Commons BY-NC-SA 4.0
+	See LICENSE.txt or https://creativecommons.org/licenses/by-nc-sa/4.0/ for more details
+*/
+
 // Ofuscador Básico de Texto || Versão 0.13 || Para console > Windows! || Desenvolvido por: III. \\
 // Desenvolvido como projeto pessoal e como prova de conceito. || Língua original: PT-BR \\
 
